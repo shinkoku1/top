@@ -1,0 +1,27 @@
+body{
+	background-color:black;
+}
+h1{
+	position:relative;
+	left:112.5px;
+	font-size:30px;
+	color:white;
+}
+h2{
+	position:relative;
+	left:300px;
+	font-size:12px;
+	color:white;
+}
+h3{
+	position:relative;
+	left:62.5px;
+	font-size:20px;
+	color:white;
+}
+p{
+	position:relative;
+	left:87.5px;
+	font-size:20px;
+	color:white;
+}
